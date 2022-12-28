@@ -1,0 +1,27 @@
+.col-sm-12.col-md-2,.w-25,.col,.high div{
+    background-color: rgb(30,33,58);
+}
+
+.fa-solid{
+    font-size: 1.2rem;
+}
+
+.col-sm-12.col-md-10,.w-75{
+    background-color: rgb(16,14,29);
+}
+
+.cloud,.imags .side{
+    width: 12rem;
+    height: 12rem;
+}
+
+.sun{
+    width: 10rem;
+    height: 10rem;
+}
+
+@media (max-width:991px) {
+    h3.fs-3{
+        font-size: 0.6rem;
+    }
+}
